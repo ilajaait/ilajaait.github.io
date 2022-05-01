@@ -1,5 +1,5 @@
 ---
-title: "myblog"
+title: "Ismaël Lajaaiti"
 listing:
   contents: posts
   sort: "date desc"
