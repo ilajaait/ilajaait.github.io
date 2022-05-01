@@ -1,0 +1,11 @@
+{
+  "hash": "b3b3ce54ff702553f10e9be64fc980f1",
+  "result": {
+    "markdown": "---\ntitle: \"Testing Quarto\"\nauthor: \"Harlow Malloc\"\ndate: \"01/05/2022\"\ncategories: [news, code, analysis]\nimage: \"image.jpg\"\n---\n\n:::{.callout-warning}\nTesting quarto functionalities.\n:::\n\nThis is a post with executable code.\n\n::: {.cell collapse='true' execution_count=1}\n``` {.julia .cell-code}\na = 2 \n2*a\n```\n\n::: {.cell-output-display execution_count=2}\n```\n4\n```\n:::\n:::\n\n\nWriting some maths: in line $\\sigma = 2$.\nAnd here is an equation: \n$$ \\mu = 3a $$\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

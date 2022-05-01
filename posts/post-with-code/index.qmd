@@ -1,9 +1,23 @@
 ---
-title: "Post With Code"
-author: "Harlow Malloc"
+title: "Testing Quarto"
+author: "Ismaël Lajaaiti"
 date: "01/05/2022"
 categories: [news, code, analysis]
 image: "image.jpg"
 ---
 
+:::{.callout-warning}
+Testing quarto functionalities.
+:::
+
 This is a post with executable code.
+
+```{julia collapse = true}
+#| collapse: true
+a = 2 
+2*a
+```
+
+Writing some maths: in line $\sigma = 2$.
+And here is an equation: 
+$$ \mu = 3a $$

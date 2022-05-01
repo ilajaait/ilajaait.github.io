@@ -3,17 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "myblog"
+  title: "Ismaël Lajaaiti"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/ilajaait
       - icon: twitter
-        href: https://twitter.com
+        href: https://twitter.com/ismael_lajaaiti
 format:
   html:
-    theme: cosmo
+    theme: litera
     css: styles.css
 
 
